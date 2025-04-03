@@ -1,0 +1,1 @@
+export declare const formatDay: (date?: string, template?: string) => string;
