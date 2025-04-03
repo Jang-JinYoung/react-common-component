@@ -1,6 +1,8 @@
 {
   "name": "react-common-component",
   "version": "0.1.0",
+  "main": "src/Utils/dayUtils.ts",
+  "types": "src/Utils/dayUtils.ts",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
